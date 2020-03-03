@@ -1,10 +1,8 @@
 ---
-id: 196
 title: Ministry
 date: 2016-04-09T21:25:43+00:00
-author: Stephanie Wyatt
-layout: page
-guid: http://stephaniewyatt.net/?page_id=196
+layout: post
+read_time: true
 ---
 &nbsp;
 

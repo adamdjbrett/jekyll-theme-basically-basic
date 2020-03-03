@@ -35,6 +35,12 @@ algolia:
   search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
   powered_by: # true (default), false
 
+# analytics
+google_analytics: UA-28150502-1
+
+# copyright
+copyright: "Most content on [Stephanie Wyatt](/) is produced under a [Creative Commons 3.0 BY-NC-SA license](/copyright/)."
+
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-basically-basic

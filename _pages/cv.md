@@ -1,13 +1,10 @@
 ---
-id: 47
 title: CV
 date: 2016-04-09T16:42:29+00:00
 author: Stephanie Wyatt
 layout: page
-guid: http://stephaniewyatt.net/wp/?page_id=47
-manta-layout-meta:
-  - ""
 image: /wp-content/uploads/2012/01/steph_bizcard-788x288.jpg
+read_time: true
 ---
 <h2>Curriculum Vitae for Stephanie M. Wyatt</h2>
 <div style="overflow-x: auto;">

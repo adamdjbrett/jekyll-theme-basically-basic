@@ -1,10 +1,8 @@
 ---
-id: 222
 title: Jezebel, Elijah, and the Widow of Zarephath
 date: 2016-04-10T15:04:24+00:00
-author: Stephanie Wyatt
-layout: page
-guid: http://stephaniewyatt.net/?page_id=222
+layout: post
+read_time: true
 ---
 &nbsp;
 <h2>Jezebel, Elijah, and the Widow of Zarephath: A Ménage à Trois that Estranges the Holy and Makes the Holy the Strange</h2>

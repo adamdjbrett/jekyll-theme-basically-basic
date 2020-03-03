@@ -1,10 +1,8 @@
 ---
-id: 43
 title: 'Teaching &#038; Scholarship'
 date: 2016-04-09T16:36:14+00:00
-author: Stephanie Wyatt
-layout: page
-guid: http://stephaniewyatt.net/wp/?page_id=43
+layout: post
+read_time: true
 ---
 <p style="text-align: center;"><img class="alignright wp-image-210 size-medium" src="http://stephaniewyatt.net/wp-content/uploads/Stephanie_M_Wyatt_Saint_Andrews-225x300.jpg" alt="Stephanie Wyatt with St. Andrew" width="225" height="300" />“To me the willingness to change and be changed, to remain always open is a defining principle of intellectual life”
 ~Parker Palmer in <em>Teaching Community</em></p>

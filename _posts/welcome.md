@@ -1,16 +1,8 @@
 ---
-id: 27
 title: Welcome
 date: 2016-04-09T16:01:23+00:00
-author: Stephanie Wyatt
-layout: page
-guid: http://stephaniewyatt.net/wp/?page_id=27
-sharing_disabled:
-  - "1"
-switch_like_status:
-  - "0"
-manta-layout-meta:
-  - ""
+layout: post
+read_time: true
 ---
 [caption id="attachment_78" align="alignright" width="171"]<a href="http://stephaniewyatt.net/wp-content/uploads/2012/01/copyright_Clem10_MG_4496cw_stephanie_bg.jpg"><img class="wp-image-78 size-full" src="http://stephaniewyatt.net/wp-content/uploads/2012/01/copyright_Clem10_MG_4496cw_stephanie_sm171x240.jpg" alt="Stephanie M. Wyatt - © Clem T. Webb" width="171" height="240" /></a> Stephanie M. Wyatt - © Clem T. Webb[/caption]
 

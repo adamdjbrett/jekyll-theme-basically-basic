@@ -14,21 +14,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: My Awesome Site
-email:
-description:
+title: Stephanie M. Wyatt
+email: stephanie@stephaniewyatt.net
+description: Stephanie M. Wyatt is a minister, community builder, and teacher-scholar.
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: http://stephaniewyatt.net # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name:
+  name: Stephanie Wyatt
   twitter:
-  picture:
+  picture: /images/copyright_Clem10_MG_4496cw_stephanie_bg-150x150.jpg
 twitter_username:
 github_username:
-logo: # path of site logo, e.g. "/assets/images/logo.png"
-search: # true, false (default)
+logo: /images/smw.png # path of site logo, e.g. "/assets/images/logo.png"
+search: true # true, false (default)
 search_full_content: false # true, false (default)
-search_provider: # lunr (default), algolia
+search_provider: lunr # lunr (default), algolia
 algolia:
   application_id: # YOUR_APPLICATION_ID
   index_name: # YOUR_INDEX_NAME
@@ -46,6 +46,9 @@ plugins: # previsously gems
 feed:
   path: atom.xml
 
+include:
+  - _pages
+  
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
 paginate_path: /page:num/

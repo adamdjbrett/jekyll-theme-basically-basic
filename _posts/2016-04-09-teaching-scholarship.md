@@ -4,10 +4,10 @@ date: 2016-04-09T16:36:14+00:00
 layout: post
 read_time: true
 ---
-<p style="text-align: center;"><img class="alignright wp-image-210 size-medium" src="http://stephaniewyatt.net/wp-content/uploads/Stephanie_M_Wyatt_Saint_Andrews-225x300.jpg" alt="Stephanie Wyatt with St. Andrew" width="225" height="300" />“To me the willingness to change and be changed, to remain always open is a defining principle of intellectual life”
-~Parker Palmer in <em>Teaching Community</em></p>
+“To me the willingness to change and be changed, to remain always open is a defining principle of intellectual life”
+~Parker Palmer in *Teaching Community*
 In my experience, education has provided a profound source of joy, as well as opening me to realities of the world that grieve me deeply. Education has empowered me to make changes in my life, expose myself to new opportunities, and take on forms of activism I may have never discovered on my own. It has also made me a more empathetic person. Education provided a window into lives of people whose lives radically differed from my own, and I found their stories compelling, disturbing, and transformative.
-
+<!--more-->
 <hr />
 
 <h2>Teaching Philosophy</h2>

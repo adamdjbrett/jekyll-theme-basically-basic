@@ -18,7 +18,7 @@ title: Stephanie M. Wyatt
 email: stephanie@stephaniewyatt.net
 description: Stephanie M. Wyatt is a minister, community builder, and teacher-scholar.
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: http://stephaniewyatt.net # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: http://www.stephaniewyatt.net # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: Stephanie Wyatt
   twitter:
@@ -48,7 +48,7 @@ feed:
 
 include:
   - _pages
-  
+
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
 paginate_path: /page:num/

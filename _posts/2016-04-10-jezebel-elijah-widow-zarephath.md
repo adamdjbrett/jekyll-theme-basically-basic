@@ -4,6 +4,7 @@ excerpt_separator: "<!--more-->"
 date: 2016-04-10T15:04:24+00:00
 layout: post
 read_time: true
+permalink: /jezebel/
 ---
 &nbsp;
 <h2>Jezebel, Elijah, and the Widow of Zarephath: A Ménage à Trois that Estranges the Holy and Makes the Holy the Strange</h2>

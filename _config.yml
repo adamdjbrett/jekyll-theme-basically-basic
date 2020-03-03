@@ -72,6 +72,7 @@ exclude:
   - .jekyll-assets-cache
   - .sass-cache
   - .scss-lint.yml
+  - .DS_Store
   - CHANGELOG
   - Gemfile
   - Gemfile.lock

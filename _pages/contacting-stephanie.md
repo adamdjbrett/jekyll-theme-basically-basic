@@ -4,6 +4,7 @@ date: 2016-04-09T16:10:30+00:00
 author: Stephanie Wyatt
 layout: page
 image: /wp-content/uploads/2012/01/stephaniewyatt-604x288.jpg
+permalink: /contact/
 read_time: true
 ---
 [contact-form-7 id="100" title="Contact form 1"]

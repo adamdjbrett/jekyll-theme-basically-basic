@@ -7,6 +7,7 @@ actions:
     icon: pdf
     url: "#pdf-asset"
 read_time: true
+permalink: /cv/
 ---
 {
  "basics": {

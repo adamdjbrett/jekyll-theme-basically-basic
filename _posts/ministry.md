@@ -1,5 +1,5 @@
 ---
-title: Ministry
+title: "Ministry"
 date: 2016-04-09T21:25:43+00:00
 layout: post
 read_time: true

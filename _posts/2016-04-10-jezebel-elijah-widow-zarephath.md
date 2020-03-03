@@ -1,5 +1,6 @@
 ---
 title: "Jezebel, Elijah, and the Widow of Zarephath"
+excerpt_separator: "<!--more-->"
 date: 2016-04-10T15:04:24+00:00
 layout: post
 read_time: true
@@ -7,6 +8,7 @@ read_time: true
 &nbsp;
 <h2>Jezebel, Elijah, and the Widow of Zarephath: A Ménage à Trois that Estranges the Holy and Makes the Holy the Strange</h2>
 by <a href="http://stephaniewyatt.net/">Stephanie Wyatt</a>
+<!--more-->
 <h3>Abstract:</h3>
 <a href="http://jot.sagepub.com/content/36/4/435.abstract" rel="attachment wp-att-209"><img class="alignright wp-image-209 size-full" src="http://stephaniewyatt.net/wp-content/uploads/JSOT_F1.medium.gif" alt="Jezebel, Elijah, and the Widow of Zarephath: A Ménage à Trois that Estranges the Holy and Makes the Holy the Strange, JSOT" width="293" height="440" /></a>
 This article offers a dialogical examination of 1 Kgs 17–19 that deconstructs traditionally accepted characterizations of Jezebel, Elijah, and the Widow of Zarephath. This study proposes that shifting emphasis from Elijah and Jezebel as polar opposites to a literary ménage à trois that involves all three characters makes it possible for the holy man to become a stranger and the strange women to become holy. The narrative tensions thus revealed question the validity of Israel's definitive identity markers. When reading the stories of Jezebel, Elijah, and the Widow of Zarephath in the Deuteronomistic History, clear-cut distinctions between ‘insiders’ and ‘outsiders’ continually collapse.

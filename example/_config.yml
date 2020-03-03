@@ -47,6 +47,9 @@ plugins: # previously gems
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-gist
+  - jekyll-redirect-from
+
 feed:
   path: atom.xml
 

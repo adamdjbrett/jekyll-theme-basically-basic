@@ -1,5 +1,6 @@
 ---
 title: "Teaching &#038; Scholarship"
+excerpt_separator: "<!--more-->"
 date: 2016-04-09T16:36:14+00:00
 layout: post
 read_time: true

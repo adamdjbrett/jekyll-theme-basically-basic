@@ -15,8 +15,8 @@ This article offers a dialogical examination of 1 Kgs 17–19 that deconstructs 
 
   - [paywall-pdf](http://jot.sagepub.com/content/36/4/435.abstract)
   - Citations
-    - [[bib](/wyatt_JSOT_Citation/Wyatt_JSOT_Jezebel_Elijah_and_the_Widow_of_Zarephath_bibtex.bib)
-    - [[endnote](/wyatt_JSOT_Citation/Wyatt_JSOT_Jezebel_Elijah_and_the_Widow_of_Zarephath_endnote.enw)
+    - [bib](/wyatt_JSOT_Citation/Wyatt_JSOT_Jezebel_Elijah_and_the_Widow_of_Zarephath_bibtex.bib)
+    - [endnote](/wyatt_JSOT_Citation/Wyatt_JSOT_Jezebel_Elijah_and_the_Widow_of_Zarephath_endnote.enw)
     - [micro](/wyatt_JSOT_Citation/Wyatt_JSOT_Jezebel_Elijah_and_the_Widow_of_Zarephath_microdata.html)
     - [ris](.net/Wyatt_JSOT_Jezebel_Elijah_and_the_Widow_of_Zarephath_zotero-citations.ris)
     - [text](/wyatt_JSOT_Citation/Wyatt_JSOT_Jezebel_Elijah_and_the_Widow_of_Zarephath_refworks.txt)

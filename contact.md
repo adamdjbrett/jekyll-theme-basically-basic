@@ -19,7 +19,12 @@ read_time: true
     <input type="text" name="name" placeholder="Full Name">
     <input type="text" name="email" placeholder="Email Address">
     <textarea type="text" name="content" rows="10" placeholder="Message"></textarea>
-    <input type="hidden" name="_next" value="https://spirittwinslacrosse.com">
+    <div class="g-recaptcha"
+      data-sitekey="6LdIFS4UAAAAADRWvV_NUJlVK_B-7wSVhpE_oVVt"
+      data-callback="onSubmit"
+      data-size="invisible">
+      </div>
+    <input type="hidden" name="_next" value="https://www.stephaniewyatt.net">
     <input type="hidden" name="_subject" value="New Contact Form Submission">
     <input type="text" name="_gotcha" style="display:none">
     <input type="submit" value="Submit">

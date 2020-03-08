@@ -64,7 +64,8 @@
     "startDate": "2000",
     "area": "Religion",
     "studyType": "M.Div",
-    "institution": "Wake Forest Divinity School"
+    "institution": "Wake Forest Divinity School",
+    "website": "http://divinity.wfu.edu/"
   },
   {
     "endDate": "1998",
@@ -72,6 +73,7 @@
     "area": "College Scholars, <em>Summa Cum Laude</em> ",
     "studyType": "B.A.",
     "institution": "University of Tennessee, Knoxville",
+    "website": "http://utk.edu/",
     "courses": [
       "Specialization: International Justice and French"
   ]

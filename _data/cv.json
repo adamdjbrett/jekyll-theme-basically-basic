@@ -31,7 +31,24 @@
     "summary": "I am interim minister at West Baptist Church in Oswego, NY. It is an ABC-USA church.",
     "highlights": [
       "Opened a food pantry, restarted several outreach opportunities"
-    ]
+    ],
+    "work": [{
+      "company": "American Baptists of New York State",
+      "position": "Instructor",
+      "website": "https://www.abc-usa.org/Regions/american-baptist-churches-of-new-york-state/",
+      "startDate": "2019",
+      "endDate": "2018",
+      "summary": "Instructor for New Testament Lay Studies Courses, Spring 2018. Instructor for Old Testament Lay Studies Course, Spring 2018.",
+      "highlights": [
+        "I designed the course syllabus, gave lectures, supervised student presentations, and facilitated classroom conversation in live and online formats."
+      ],
+      "work": [{
+        "company": "Glendale Baptist Church",
+        "position": "Youth Minister",
+        "website": "https://www.glendalebaptist.org/",
+        "startDate": "2005",
+        "endDate": "2004",
+        "summary": "I led weekly youth meetings, developed curriculum, and planned social activities for middle and high school students, as well as providing pastoral care to youth and their families."
   }],
   "education": [
     {

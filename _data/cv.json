@@ -75,17 +75,11 @@
   ]
 }
   ],
-  "Ordination": [{
-    "title": "Ordained",
+  "awards": [{
+    "title": "Ordination",
     "date": "2002",
     "awarder": "Central Baptist Church, Fountain City in Knoxville,Tennessee",
-    "summary": "Baptist"
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
+    "summary": "Baptist."
   }],
   "publications": [{
     "name": "Publication",

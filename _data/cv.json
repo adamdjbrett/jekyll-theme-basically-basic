@@ -72,8 +72,8 @@
     "startDate": "2005",
     "endDate": "2004",
     "summary": "I led weekly youth meetings, developed curriculum, and planned social activities for middle and high school students, as well as providing pastoral care to youth and their families."
-  },
-  {
+      },
+      {
     "company": "Baptist Joint Committee",
     "position": "Intern",
     "website": "https://bjconline.org/",
@@ -88,6 +88,30 @@
   "startDate": "2002",
   "endDate": "2003",
   "summary": "The BJC is an organization that advocates on behalf of religious liberty and separation of church and state from a Baptist perspective. Internship included research, writing, editing, membership education, adminis- tration, and curriculum development."
+  },
+  {
+  "company": "Wake Forest Baptist Church",
+  "position": "Intern",
+  "website": "https://wakeforestbaptist.org/",
+  "startDate": "2000",
+  "endDate": "2002",
+  "summary": "I facilitated educational activities and opportunities for fellowship with youth and college students, worship planning, program administration and facilitation, and pastoral care with all age groups."
+  },
+  {
+  "company": "Wake Forest University",
+  "position": "Servant Leadership Intern",
+  "website": "https://wfu.edu/",
+  "startDate": "1999",
+  "endDate": "2001",
+  "summary": "I supervised campus volunteer programs, worked with student leaders on large-scale service efforts, orga- nized and planned annual Interfaith Spirituality and Volunteerism Retreat."
+  },
+  {
+  "company": "Baptist Student Union, Virgina Tech University",
+  "position": "Associate Intern",
+  "website": "http://www.bcm.org.vt.edu/",
+  "startDate": "1998",
+  "endDate": "199",
+  "summary": "Internship included advising student leaders, counseling, programming, and ministry development."
   }
   ],
   "volunteer": [
@@ -132,6 +156,10 @@
       "Dissertation: <em>Widows in the Memories of Biblical Israel</em> ",
       "Major Concentration: Hebrew Bible ",
       "Minor Concentration: Biblical Theology and Feminist Hermeneutics"
+    ],
+    "highlights": [
+      "Robert Carr Chapel, Brite Divinity School atTexas Christian University ––“Christian Response-ability for‘Never Again,’” A Christian Service for Yom HaShoah: Remembering the Holocaust, January 25, 2011.",
+      "Texas Christian University –– “This is ‘Myspace:’ Ending Violence Against Women Through Community,” Graduate Student Forum,Women’s History Month, February 2007."
     ]
     },
     {
@@ -148,7 +176,7 @@
   },
   {
     "endDate": "2002",
-    "startDate": "2000",
+    "startDate": "1999",
     "area": "Religion",
     "studyType": "M.Div",
     "institution": "Wake Forest Divinity School",

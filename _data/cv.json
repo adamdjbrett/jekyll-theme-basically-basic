@@ -81,9 +81,6 @@
       "startDate": "2006",
       "endDate": "2010",
       "summary": "Regularly participated in worship planning, dialogical sermon facilitation, liturgy composition, children & adult education activities, including planning and serving as a leader for a multi-church children’s retreat.",
-      "highlights": [
-        "Awarded a 'Helium Biscuit'"
-      ]
     }
   ],
   "education": [
@@ -157,18 +154,19 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Fluent"
     },
     {
       "language": "French",
-      "fluency": "Intermediate",
+      "fluency": "Intermediate"
     },
     {
       "language": "Biblical Hebrew",
-      "fluency": "Expert",
-      {
-        "language": "Koine Greek",
-        "fluency": "Intermediate"
+      "fluency": "Expert"
+    },
+    {
+      "language": "Koine Greek",
+      "fluency": "Intermediate"
     }
   ],
   "interests": [{

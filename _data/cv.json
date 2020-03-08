@@ -39,15 +39,22 @@
       "startDate": "2005-08-05",
       "area": "Biblical Interpretation",
       "studyType": "Ph.D.",
-      "institution": "Brite Divinity School at Texas Christian University"
+      "institution": "Brite Divinity School at Texas Christian University",
+      "courses": [
+        "Dissertation: <em>Widows in the Memories of Biblical Israel</em> ",
+        "Major Concentration: Hebrew Bible ",
+        "Minor Concentration: Biblical Theology and Feminist Hermeneutics"
+    ]
     },
     {
       "endDate": "2016-05-05",
       "startDate": "2005-08-05",
-      "area": "Biblical Interpretation",
-      "studyType": "Ph.D.",
-      "institution": "Brite Divinity School at Texas Christian University",
-      "dissertation": "Dissertation: <em>Widows in the Memories of Biblical Israel </em>"
+      "area": "Religion",
+      "studyType": "M.A.",
+      "institution": "Vanderbilt University",
+      "courses": [
+      "DB1101 - Basic SQL"
+    ]
     }
   ],
   "awards": [{

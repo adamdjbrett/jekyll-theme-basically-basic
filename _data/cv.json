@@ -196,13 +196,15 @@
     "awarder": "Central Baptist Church, Fountain City in Knoxville,Tennessee",
     "summary": "Baptist."
   }],
-  "publications": [{
+  "publications": [
+    {
     "name": "Jezebel, Elijah, and the Widow of Zarephath: A <em>Ménage à Trois</em> that Estranges the Holy and Makes the Holy the Strange",
     "publisher": "Journal for the Study of the Old Testament (JSOT)",
     "releaseDate": "2012-05-15",
     "website": "https://doi.org/10.1177/0309089212438020",
     "summary": "This article offers a dialogical examination of 1 Kgs 17–19 that deconstructs traditionally accepted characterizations of Jezebel, Elijah, and the Widow of Zarephath. This study proposes that shifting emphasis from Elijah and Jezebel as polar opposites to a literary <em>ménage à trois</em> that involves all three characters makes it possible for the holy man to become a stranger and the strange women to become holy. The narrative tensions thus revealed question the validity of Israel's definitive identity markers. When reading the stories of Jezebel, Elijah, and the Widow of Zarephath in the Deuteronomistic History, clear-cut distinctions between ‘insiders’ and ‘outsiders’ continually collapse."
-  }],
+  }
+],
   "skills": [{
     "name": "Biblical Interpretation",
     "level": "Expert",
@@ -236,9 +238,5 @@
       "British Peroid Dramas",
       "Antiquing"
     ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference..."
   }]
 }

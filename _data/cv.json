@@ -154,10 +154,23 @@
       "Javascript"
     ]
   }],
-  "languages": [{
-    "language": "English",
-    "fluency": "Native speaker",
-  }],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent",
+    },
+    {
+      "language": "French",
+      "fluency": "Intermediate",
+    },
+    {
+      "language": "Biblical Hebrew",
+      "fluency": "Expert",
+      {
+        "language": "Koine Greek",
+        "fluency": "Intermediate"
+    }
+  ],
   "interests": [{
     "name": "Wildlife",
     "keywords": [

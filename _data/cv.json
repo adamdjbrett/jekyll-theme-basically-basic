@@ -53,6 +53,41 @@
     "endDate": "2004",
     "summary": "I led weekly youth meetings, developed curriculum, and planned social activities for middle and high school students, as well as providing pastoral care to youth and their families."
   }],
+  "volunteer": [
+    {
+      "organization": "Steve's Meat Market",
+      "position": "Assistant",
+      "website": "",
+      "startDate": "1995-01-01",
+      "endDate": "1997-03-20",
+      "summary": "Ground up some sort of grasshopper mash for fishing.",
+      "highlights": [
+        "Awarded a 'Helium Biscuit'"
+      ]
+    },
+    {
+      "organization": "Steve's Meat Market",
+      "position": "Assistant",
+      "website": "",
+      "startDate": "1995-01-01",
+      "endDate": "1997-03-20",
+      "summary": "Ground up some sort of grasshopper mash for fishing.",
+      "highlights": [
+        "Awarded a 'Helium Biscuit'"
+      ]
+    },
+    {
+      "organization": "Steve's Meat Market",
+      "position": "Assistant",
+      "website": "",
+      "startDate": "1995-01-01",
+      "endDate": "1997-03-20",
+      "summary": "Ground up some sort of grasshopper mash for fishing.",
+      "highlights": [
+        "Awarded a 'Helium Biscuit'"
+      ]
+    }
+  ],
   "education": [
     {
       "endDate": "2016",

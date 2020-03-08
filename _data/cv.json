@@ -55,34 +55,32 @@
   }],
   "volunteer": [
     {
-      "organization": "Steve's Meat Market",
-      "position": "Assistant",
-      "website": "",
-      "startDate": "1995-01-01",
-      "endDate": "1997-03-20",
-      "summary": "Ground up some sort of grasshopper mash for fishing.",
+      "organization": "United Church of Fayetteville",
+      "position": "Co-facilitator",
+      "website": "http://www.theucf.org/",
+      "startDate": "2012",
+      "endDate": "2016",
+      "summary": "Past education units have included spirituality and the arts, interfaith dialog, a water series that covered topics from baptism to local water quality, and exploring family histories.",
       "highlights": [
-        "Awarded a 'Helium Biscuit'"
+        "Guest Speaker Series on Religion in International Relations"
+        "Book study on Reza Aslan's <em>Zealot</em>"
       ]
     },
     {
-      "organization": "Steve's Meat Market",
-      "position": "Assistant",
-      "website": "",
+      "organization": "United Church of Fayetteville",
+      "position": "Worship Leadership",
+      "website": "http://www.theucf.org/",
       "startDate": "1995-01-01",
       "endDate": "1997-03-20",
-      "summary": "Ground up some sort of grasshopper mash for fishing.",
-      "highlights": [
-        "Awarded a 'Helium Biscuit'"
-      ]
+      "summary": "Periodic liturgist, liturgy composer, children and youth educator, and preacher."
     },
     {
-      "organization": "Steve's Meat Market",
-      "position": "Assistant",
-      "website": "",
-      "startDate": "1995-01-01",
-      "endDate": "1997-03-20",
-      "summary": "Ground up some sort of grasshopper mash for fishing.",
+      "organization": "Church in the Cliff",
+      "position": "Worship and Education",
+      "website": "http://churchinthecliff.org/",
+      "startDate": "2006",
+      "endDate": "2010",
+      "summary": "Regularly participated in worship planning, dialogical sermon facilitation, liturgy composition, children & adult education activities, including planning and serving as a leader for a multi-church children’s retreat.",
       "highlights": [
         "Awarded a 'Helium Biscuit'"
       ]

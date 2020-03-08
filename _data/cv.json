@@ -47,15 +47,33 @@
     ]
     },
     {
-      "endDate": "2016-05-05",
-      "startDate": "2005-08-05",
+      "endDate": "2005-08-05",
+      "startDate": "2003-08-05",
       "area": "Religion",
       "studyType": "M.A.",
       "institution": "Vanderbilt University",
       "courses": [
-      "DB1101 - Basic SQL"
+      "Major Concentration: Hebrew Bible ",
+      "Minor Concentration: Jewish Studies"
     ]
-    }
+  },
+  {
+    "endDate": "2002-05-05",
+    "startDate": "2000-08-05",
+    "area": "Religion",
+    "studyType": "M.Div",
+    "institution": "Wake Forest Divinity School"
+  },
+  {
+    "endDate": "1998-05-05",
+    "startDate": "1996-08-05",
+    "area": "College Scholars, <em>Summa Cum Laude</em> ",
+    "studyType": "B.A.",
+    "institution": "University of Tennessee, Knoxville",
+    "courses": [
+      "Specialization: International Justice and French"
+  ]
+}
   ],
   "awards": [{
     "title": "Award",

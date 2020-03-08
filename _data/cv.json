@@ -55,8 +55,15 @@
       "highlights": [
         "Part of the team that created the program Women of Color in STEM.",
         "Programming for Future Professionals Program (WiSE-FPP)."
-
         ]
+      },
+      {
+      "company": "Hubert H. Humphrey Fellowship Program, At Syracuse University's Maxwell School",
+      "position": "Program Assistant/Specialist",
+      "website": "https://www.maxwell.syr.edu/executive-education/fellows/humphrey/",
+      "startDate": "2019",
+      "endDate": "2014",
+      "summary": "I serve as a liaison for incoming Humphrey Fellows, mid-career professionals from developing democracies who spend an academic year in the U.S. for academic study, professional development, and cultural ex- change. I assist the fellows with settling into their new residences, introduce them to the Syracuse campus, and help them navigate the city during their first weeks of the program."
       },
     {
     "company": "Glendale Baptist Church",
@@ -65,7 +72,24 @@
     "startDate": "2005",
     "endDate": "2004",
     "summary": "I led weekly youth meetings, developed curriculum, and planned social activities for middle and high school students, as well as providing pastoral care to youth and their families."
-  }],
+  },
+  {
+    "company": "Baptist Joint Committee",
+    "position": "Intern",
+    "website": "https://bjconline.org/",
+    "startDate": "2002",
+    "endDate": "2003",
+    "summary": "The BJC is an organization that advocates on behalf of religious liberty and separation of church and state from a Baptist perspective. Internship included research, writing, editing, membership education, adminis- tration, and curriculum development."
+    },
+  {
+  "company": "Baptist Joint Committee",
+  "position": "Intern",
+  "website": "https://bjconline.org/",
+  "startDate": "2002",
+  "endDate": "2003",
+  "summary": "The BJC is an organization that advocates on behalf of religious liberty and separation of church and state from a Baptist perspective. Internship included research, writing, editing, membership education, adminis- tration, and curriculum development."
+  }
+  ],
   "volunteer": [
     {
       "organization": "United Church of Fayetteville",

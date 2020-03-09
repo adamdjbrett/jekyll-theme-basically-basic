@@ -5,7 +5,7 @@ layout: cv
 actions:
   - label: "Download as PDF"
     icon: pdf
-    url: "#pdf-asset"
+    url: "/documents/smwyatt-cv.pdf"
 read_time: true
 permalink: /cv/
 ---

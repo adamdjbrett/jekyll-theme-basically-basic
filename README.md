@@ -3,6 +3,8 @@
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/mmistakes/jekyll-theme-basically-basic/blob/master/LICENSE)
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.6-blue.svg)](https://jekyllrb.com/)
 [![Ruby gem](https://img.shields.io/gem/v/jekyll-theme-basically-basic.svg)](https://rubygems.org/gems/jekyll-theme-basically-basic)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/adamdjbrett/stephaniewyatt.net)
+
 
 Basically Basic is one of the best [Jekyll themes](https://jekyllrb.com/docs/themes/). The theme was made a developed by Michael Rose [@mmistakes](https://github.com/mmistakes).
 I like the theme because it is fast, responsive, clean, and minimalist.

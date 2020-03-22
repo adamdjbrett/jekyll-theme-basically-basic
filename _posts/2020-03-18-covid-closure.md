@@ -27,8 +27,8 @@ Lenten blessings,
 
 Pastor Stephanie
 
-Rev, Stephanie M. Wyatt, Ph.D.
-[stephaniewyatt.net](http://stephaniewyatt.net/)
+Rev, Stephanie M. Wyatt, Ph.D.  
+[stephaniewyatt.net](http://stephaniewyatt.net/)  
 
 
 

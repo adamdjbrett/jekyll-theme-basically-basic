@@ -19,7 +19,7 @@ In accordance with government guidance that the public should avoid gatherings o
 
 We are currently in the season of Lent on the church calendar, a 40 day period of preparation and contemplation that precedes Easter. Our scripture passages during this season have highlighted important encounters with Jesus that take place in the gospel of John. The scripture reading for March 22 is John 9:1-41 and the reading for March 29 is John 11:1-45. I hope you will read and meditate upon those passages even though we will be unable to gather together for worship.
 
-Pay attention to the ways in which some people come to faith as a result of their experience with Jesus and others fear what they have difficultly understanding. What transformation or encouragement might God be working within you this Lenten season? What do these scriptures help us understand about what it means to be a disciple of Jesus?
+Pay attention to the ways in which some people come to faith as a result of their experience with Jesus and others fear what they have difficulty understanding. What transformation or encouragement might God be working within you this Lenten season? What do these scriptures help us understand about what it means to be a disciple of Jesus?
 
 May we seek to support each other (from an appropriate distance) during this challenging time. Please feel free to call me on my my cell phone or email me <stephanie@stephaniewyatt.net> should you need a listening ear or some company.
 

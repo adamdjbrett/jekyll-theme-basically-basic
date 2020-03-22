@@ -36,4 +36,4 @@ _"For God has not given us a spirit of fear, but of power and of love and of a s
 
 
 
-Solidarity Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4924028">Gerd Altmann</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4924028">Pixabay</a>
+Solidarity Image by <a href="https://pixabay.com/">Gerd Altmann</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4924028">Pixabay</a>

@@ -10,12 +10,10 @@ tags:
   - pastor
   - note
 ---
-
-March 18, 2020
-
 Dear Members and Friends of West Baptist Church,
 
 The emergence of COVID-19 (Coronavirus) places us in the midsts of a health crisis unlike anything most of us have faced in our lifetimes. While we seek to protect our loved ones and ourselves against infection, we empathize with those who are ill and grieve with those who have suffered loss. Our continued prayers are with those directly affected by the virus, those in the health care community who are tirelessly working to treat the sick, and those government and public health officials developing responsive measures.
+<!--more-->
 
 In accordance with government guidance that the public should avoid gatherings of 10 or more people, the West Baptist Church council has decided to cancel worship for the next two Sundays (march 22 and March 29) with the hope that we will be able to gather again on Palm Sunday (April 5). We will post updates about worship and other church events on the church website westbaptistchurch.org. For those of you who do not have access to a computer, we will contact you by phone.
 
